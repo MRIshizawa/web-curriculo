@@ -1,0 +1,46 @@
+*{
+    border: 1px solid purple;
+    margin: 0px;
+    padding: 5px;
+}
+.profileimg{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid purple;
+
+}
+.bio h3{
+    background-color: #999;
+
+}
+.formacao h3 {
+    background-color: #999;
+}
+.formacao h4 {
+    background-color: rgb(211, 211, 211);
+}
+.cursos h3{
+    background-color: #999;
+}
+.cursos h4 {
+    background-color:rgb(211, 211, 211);
+}
+.contato{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.nome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.contato img{
+    width: 40px;
+    height: 40px;
+}
